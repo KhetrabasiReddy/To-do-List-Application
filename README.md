@@ -42,3 +42,10 @@ Ensure you have the following installed:
           id INT AUTO_INCREMENT PRIMARY KEY,
           description VARCHAR(255) NOT NULL
       );
+
+## Contact
+For any questions or feedback, feel free to reach out:
+
+- **Author**: Khetrabasi Reddy  
+- **Email**: [reddykhetrabasi@gmail.com](mailto:reddykhetrabasi@gmail.com)
+- **LinkedIn**: [Khetrabasi Reddy] (https://www.linkedin.com/in/khetrabasi-reddy-b0ba77224/)
