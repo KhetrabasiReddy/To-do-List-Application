@@ -25,10 +25,9 @@ A simple console-based To-Do List application built using **Java** and **Maven**
 
 ### Prerequisites
 Ensure you have the following installed:
-- [Java JDK 8+](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [Apache Maven](https://maven.apache.org/install.html)
-- [MySQL Server](https://dev.mysql.com/downloads/mysql/)
-- IDE (IntelliJ IDEA)
+- [Java JDK 8+](https://www.oracle.com/in/java/technologies/downloads/)
+- [MySQL Server](https://www.mysql.com/downloads/)
+- IDE (IntelliJ IDEA, Eclipse)
 
 ---
 
