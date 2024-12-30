@@ -11,7 +11,7 @@ public class ToDoListManager {
     private Connection connect() throws SQLException {
         return DriverManager.getConnection(url, user, password);
     }
-
+//delete this comment
     public void addTask(String description) {
         String query = "INSERT INTO tasks (description) VALUES (?)";
         try (Connection connection = connect();
